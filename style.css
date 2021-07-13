@@ -1,7 +1,31 @@
 h1{ color:azure; border-style:solid;}
 h2{ color:azure;}
 h3{ color:azure;}
+
 body{ background-color:black;
 font-family:Arial, Helvetica, sans-serif;}
+
 p{color:azure;}
+
 li{color:azure;}
+
+.topnav {
+  overflow: hidden;
+  background-color:darkorchid;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color:blue;
+}
+
+tr{color:#f2f2f2}
